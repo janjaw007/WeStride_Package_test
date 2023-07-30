@@ -1,0 +1,26 @@
+{
+  "name": "@janjaw007/logger",
+  "version": "1.0.0",
+  "description": "logger with colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janjaw007/WeStride_Package_test.git"
+  },
+  "keywords": [
+    "log",
+    "colors"
+  ],
+  "author": "cow-arcade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janjaw007/WeStride_Package_test/issues"
+  },
+  "homepage": "https://github.com/janjaw007/WeStride_Package_test#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
